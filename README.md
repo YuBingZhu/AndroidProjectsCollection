@@ -17,7 +17,7 @@
 
 [*https://github.com/dynamitechetan/FogView_Library*](https://github.com/dynamitechetan/FogView_Library)
 
-    擦除效果 [*https://github.com/jackpocket/android_scratchoff*](https://github.com/jackpocket/android_scratchoff)
+  擦除效果 [*https://github.com/jackpocket/android_scratchoff*](https://github.com/jackpocket/android_scratchoff)
 
 
 4 目前做的最漂亮的一款脉搏效果，真的超级好看！ 
