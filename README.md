@@ -116,10 +116,48 @@
 
 [*https://github.com/Hitomis/FunGameRefresh*](https://github.com/Hitomis/FunGameRefresh)
 
+[*https://github.com/lubeast/PullToRefresh*](https://github.com/lubeast/PullToRefresh)
+
 
 23 所有跟 Android UI 相关的优秀开源项目
 
 [*https://github.com/wasabeef/awesome-android-ui*](https://github.com/wasabeef/awesome-android-ui)
+
+
+24 多种样式的toast
+
+[*https://github.com/yadav-rahul/TastyToast*](https://github.com/yadav-rahul/TastyToast)
+
+
+25 机票座位选择 在线选择座位
+
+[*https://github.com/ldoublem/FlightSeat*](https://github.com/ldoublem/FlightSeat)
+
+
+26 A simple RatingBar for Android 评星view
+
+[*https://github.com/FlyingPumba/SimpleRatingBar*](https://github.com/FlyingPumba/SimpleRatingBar)
+
+
+27 点赞控件
+
+[*https://github.com/ldoublem/ThumbUp*](https://github.com/ldoublem/ThumbUp)
+
+
+28 Android 复杂的多类型列表视图新写法：drakeet/MultiType
+
+[*https://github.com/drakeet/MultiType*](https://github.com/drakeet/MultiType)
+
+
+29 MD登录风格 
+
+[*https://github.com/fanrunqi/MaterialLogin*](https://github.com/fanrunqi/MaterialLogin)
+
+
+30 漂亮动画效果的 Checkbox，洋气！很标准的一个自定义组件，同时又是 很不错的 Path, PathMeasure 的一个学习教材。
+
+[*https://github.com/CoXier/CheckBox*](https://github.com/CoXier/CheckBox)
+
 
 ## 二、Android插件化
 
@@ -144,6 +182,12 @@
 4、深入理解Dalvik字节码指令及Smali文件
 
 [*http://blog.csdn.net/dd864140130/article/details/52076515*](http://blog.csdn.net/dd864140130/article/details/52076515)
+
+
+
+5、最简单的Lambda入门教程
+
+[*http://blog.csdn.net/dd864140130/article/details/50603420*](http://blog.csdn.net/dd864140130/article/details/50603420)
 
 
 
@@ -210,6 +254,16 @@
 [*https://github.com/Blankj/AndroidUtilCode*](https://github.com/Blankj/AndroidUtilCode)
 
 
+7、生成二维码和从图片解析二维码库
+
+[*https://github.com/RurioLuca/QrCardParsing*](https://github.com/RurioLuca/QrCardParsing)
+
+
+8、上传自己的Library到JCenter
+
+[*http://blog.lufficc.com/2016/08/05/%E4%B8%80%E6%AD%A5%E4%B8%80%E6%AD%A5%E6%95%99%E4%BD%A0%E4%B8%8A%E4%BC%A0%E8%87%AA%E5%B7%B1%E7%9A%84-Library-%E5%88%B0-JCenter/*](http://blog.lufficc.com/2016/08/05/%E4%B8%80%E6%AD%A5%E4%B8%80%E6%AD%A5%E6%95%99%E4%BD%A0%E4%B8%8A%E4%BC%A0%E8%87%AA%E5%B7%B1%E7%9A%84-Library-%E5%88%B0-JCenter/)
+
+
 
 ## 八、性能相关
 
@@ -238,12 +292,27 @@
 
 
 
-
-## 十、各种算法
+## 十、图片相关
 
 1、Luban(鲁班)——可能是最接近微信朋友圈的图片压缩算法  
 
 [*https://github.com/Curzibn/Luban*](https://github.com/Curzibn/Luban)
+
+
+2、支持常见的一些图片滤镜效果函数
+
+[*https://github.com/mukeshsolanki/photofilter*](https://github.com/mukeshsolanki/photofilter)
+
+
+3、图片滤镜，便捷的编辑图片并获取位图
+
+[*https://github.com/Zomato/AndroidPhotoFilters?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly*](https://github.com/Zomato/AndroidPhotoFilters?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
+
+
+4、Android 摄像头实时滤镜
+
+[*https://github.com/WeLikeVis/CameraFilter*](https://github.com/WeLikeVis/CameraFilter)
+
 
 
 
@@ -275,5 +344,17 @@
 5 一份非常详细的面试资料，涉及 Android、Java、设计模式、算法等等等
 
 [*https://github.com/GeniusVJR/LearningNotes*](https://github.com/GeniusVJR/LearningNotes)
+
+
+
+## 十二、音视频相关
+
+1、可以实现好多种音效的播放器
+
+[*http://android-openslmediaplayer.h6ah4i.com/*](http://android-openslmediaplayer.h6ah4i.com/)
+
+
+
+
 
 
