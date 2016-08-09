@@ -159,6 +159,12 @@
 [*https://github.com/CoXier/CheckBox*](https://github.com/CoXier/CheckBox)
 
 
+31 仿即刻首页滚动效果
+
+[*https://github.com/JeasonWong/JikeGallery*](https://github.com/JeasonWong/JikeGallery)
+
+
+
 ## 二、Android插件化
 
 
@@ -263,6 +269,15 @@
 
 [*http://blog.lufficc.com/2016/08/05/%E4%B8%80%E6%AD%A5%E4%B8%80%E6%AD%A5%E6%95%99%E4%BD%A0%E4%B8%8A%E4%BC%A0%E8%87%AA%E5%B7%B1%E7%9A%84-Library-%E5%88%B0-JCenter/*](http://blog.lufficc.com/2016/08/05/%E4%B8%80%E6%AD%A5%E4%B8%80%E6%AD%A5%E6%95%99%E4%BD%A0%E4%B8%8A%E4%BC%A0%E8%87%AA%E5%B7%B1%E7%9A%84-Library-%E5%88%B0-JCenter/)
 
+[*http://blog.csdn.net/zhangke3016/article/details/52075159*](http://blog.csdn.net/zhangke3016/article/details/52075159)
+
+
+9、Android中利用Camera与Matrix实现3D效果详解
+
+[*http://blog.csdn.net/zhangke3016/article/details/52093776*](http://blog.csdn.net/zhangke3016/article/details/52093776)
+
+
+
 
 
 ## 八、性能相关
@@ -313,6 +328,10 @@
 
 [*https://github.com/WeLikeVis/CameraFilter*](https://github.com/WeLikeVis/CameraFilter)
 
+
+5、人工智能、机器学习、深度学习合体的图片资源识别库
+
+[*https://github.com/hanuor/onyx*](https://github.com/hanuor/onyx)
 
 
 
