@@ -164,6 +164,36 @@
 [*https://github.com/JeasonWong/JikeGallery*](https://github.com/JeasonWong/JikeGallery)
 
 
+### 32 Android加载动画
+
+[*https://github.com/ybq/Android-SpinKit*](https://github.com/ybq/Android-SpinKit)
+
+
+33 漂亮的 Welcome 效果框架
+
+[*https://github.com/txusballesteros/welcome-coordinator*](https://github.com/txusballesteros/welcome-coordinator)
+
+
+34 Android任意添加贴纸，支持添加Bitmap和Drawable
+
+[*https://github.com/wuapnjie/StickerView*](https://github.com/wuapnjie/StickerView)
+
+
+35 漂亮的变换引导效果
+
+[*https://github.com/eoinfogarty/Onboarding*](https://github.com/eoinfogarty/Onboarding)
+
+
+36 Button 拉长展开效果
+
+[*https://github.com/daniel-martins-IR/MagicButton*](https://github.com/daniel-martins-IR/MagicButton)
+
+
+37 Android Header 自动随滑动浮动.
+
+[*https://github.com/w446108264/ScrollableLayout*](https://github.com/w446108264/ScrollableLayout)
+
+
 
 ## 二、Android插件化
 
@@ -334,6 +364,11 @@
 [*https://github.com/hanuor/onyx*](https://github.com/hanuor/onyx)
 
 
+6、imagepicker(图片选择器)
+
+[*https://github.com/917386389/imagepickerdemo*](https://github.com/917386389/imagepickerdemo)
+
+
 
 ## 十一、学习学习
 
@@ -373,7 +408,9 @@
 [*http://android-openslmediaplayer.h6ah4i.com/*](http://android-openslmediaplayer.h6ah4i.com/)
 
 
+2、安卓音频录制
 
+[*https://github.com/adrielcafe/AndroidAudioRecorder*](https://github.com/adrielcafe/AndroidAudioRecorder)
 
 
 
